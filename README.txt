@@ -2,6 +2,7 @@ The data was collected from Facebook accounts of local politicians from several 
 
 There are 2632 comments total,  568 are labeled
 as negative, and 2064 are labeled as positive.
+Label TRUE in the data file means that the comment is negative, and FALSE means it is not.
 
 The collected posts were first manually filtered as related or unrelated to political campaigns, 
 and only campaign-related messages were kept. 
@@ -14,6 +15,5 @@ If you use this data, please cite our paper:
 Natalia Vanetik, Sagiv Talker
 , Or Machlouf, Marina Litvak,
 Detection of Negative Campaign in Israeli Municipal Elections,
-Third  Workshop on
-Threat, Aggression and Cyberbullying (TRAC-2022) at 
+Third  Workshop on Threat, Aggression and Cyberbullying (TRAC-2022) at 
 the 29th International Conference of Computational Linguistics (COLING 2022)
